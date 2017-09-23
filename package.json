@@ -1,0 +1,19 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "0.0.1",
+  "description": "parses data from a request header",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.15.4"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT"
+}
